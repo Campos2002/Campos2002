@@ -3,13 +3,6 @@
 
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
 - :muscle: No momento foco total em JavaScript.
-- 
-
-<div>
-  <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=outrun"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=outrun"/>
-</div>
-
 ##
 <h3>O que estou aprendendo:</h3>
 
@@ -21,8 +14,14 @@
 </div>
 
 ##
-<h3>Me encontre em:</h3>
-
 <div>
-  <a href="mailto:campereira91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=outrun"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=outrun"/>
+</div>
+
+##
+<h3>Entre em contato!</h3>
+<div>
+  <a href="mailto:campereira91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5521994008518&text=Olá%20Guilherme!%20Encontrei%20seu%20perfil%20no%20GitHub."><img    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
