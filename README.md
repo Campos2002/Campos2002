@@ -7,7 +7,7 @@
 ##
 <h3>Status:</h3>
 <div>
-  <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=vision-friendly-dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=vision-friendly-dark"/>
 </div>
 <div>
@@ -20,7 +20,9 @@
 ##
 <h3>Principais Repositórios:</h3>
 <a href="https://github.com/Campos2002/O-Resgate-Game-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Campos2002/Virtual-Bank-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Virtual-Bank-Landing-Page&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Campos2002/Clone-Netflix-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Netflix-Landing-Page&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Campos2002/Clone-Spotify-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Spotify-Landing-Page&theme=vision-friendly-dark"></a>
 
 ##
 <h3>Entre em contato!</h3>
