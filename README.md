@@ -4,5 +4,7 @@
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
 - :muscle: Foco total em HTML, CSS e JavaScrip!
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=tokyonight)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=monokai">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=monokai">
+</div
