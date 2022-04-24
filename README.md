@@ -6,8 +6,8 @@
 - :computer: Graduando em Ciência da Computação.
 ##
 <div>
-  <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=great-gatsby"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=great-gatsby"/>
+  <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=great-vision-friendly-dark"/>
 </div>
 <div>
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
