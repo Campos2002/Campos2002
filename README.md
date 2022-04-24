@@ -1,11 +1,11 @@
 ## Olá, visitante!
-### Me chamo Guilherme Campos e sou um aspirante à Desenvolvedor Front-end! 👋
+### :large_orange_diamond: Me chamo Guilherme Campos e sou um aspirante à Desenvolvedor Front-end! 👋
 
 - :earth_americas: Rio de Janeiro, Brasil, 31 anos.
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
 - :computer: Graduando em Ciência da Computação.
 ##
-<h3>Status:</h3>
+<h3>:large_orange_diamond: Status:</h3>
 <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=vision-friendly-dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=vision-friendly-dark"/>
@@ -18,14 +18,14 @@
 </div>
 
 ##
-<h3>Principais Repositórios:</h3>
+<h3>:large_orange_diamond: Principais Repositórios:</h3>
 <a href="https://github.com/Campos2002/O-Resgate-Game-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=darcula"></a>
 <a href="https://github.com/Campos2002/Virtual-Bank-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Virtual-Bank-Landing-Page&theme=darcula"></a>
 <a href="https://github.com/Campos2002/Clone-Netflix-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Netflix-Landing-Page&theme=darcula"></a>
 <a href="https://github.com/Campos2002/Clone-Spotify-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Spotify-Landing-Page&theme=darcula"></a>
 
 ##
-<h3>Entre em contato!</h3>
+<h3>:large_orange_diamond: Entre em contato!</h3>
 <div>
   <a href="mailto:campereira91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5521994008518&text=Olá%20Guilherme!%20Encontrei%20seu%20perfil%20no%20GitHub." target="_blank"><img    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
