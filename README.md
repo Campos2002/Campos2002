@@ -5,6 +5,7 @@
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
 - :computer: Graduando em Ciência da Computação.
 ##
+<h3>Status:</h3>
 <div>
   <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=vision-friendly-dark"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=vision-friendly-dark"/>
@@ -15,6 +16,10 @@
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
+
+##
+<h3>Principais Repositórios:</h3>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=vision-friendly-dark">
 
 ##
 <h3>Entre em contato!</h3>
