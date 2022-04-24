@@ -1,8 +1,9 @@
 ## Olá, visitante!
 ### Me chamo Guilherme Campos e sou um aspirante à Desenvolvedor Front-end! 👋
 
+- :earth_americas: Rio de Janeiro, Brasil, 31 anos.
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
-- :muscle: No momento foco total em JavaScript.
+- :computer: Graduando em Ciência da Computação.
 ##
 <div>
   <img height="165em" margin-right="30em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=outrun"/>
