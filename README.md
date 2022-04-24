@@ -19,10 +19,10 @@
 
 ##
 <h3>Principais Repositórios:</h3>
-<a href="https://github.com/Campos2002/O-Resgate-Game-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Campos2002/Virtual-Bank-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Virtual-Bank-Landing-Page&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Campos2002/Clone-Netflix-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Netflix-Landing-Page&theme=vision-friendly-dark"></a>
-<a href="https://github.com/Campos2002/Clone-Spotify-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Spotify-Landing-Page&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Campos2002/O-Resgate-Game-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=darcula"></a>
+<a href="https://github.com/Campos2002/Virtual-Bank-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Virtual-Bank-Landing-Page&theme=darcula"></a>
+<a href="https://github.com/Campos2002/Clone-Netflix-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Netflix-Landing-Page&theme=darcula"></a>
+<a href="https://github.com/Campos2002/Clone-Spotify-Landing-Page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=Clone-Spotify-Landing-Page&theme=darcula"></a>
 
 ##
 <h3>Entre em contato!</h3>
