@@ -5,6 +5,6 @@
 - :muscle: Foco total em HTML, CSS e JavaScrip!
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=outrun">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=outrun">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Campos2002&show_icons=true&theme=outrun">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos2002&theme=outrun">
 </div
