@@ -19,5 +19,5 @@
 <h3>Entre em contato!</h3>
 <div>
   <a href="mailto:campereira91@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5521994008518&text=Olá%20Guilherme!%20Encontrei%20seu%20perfil%20no%20GitHub.><img    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5521994008518&text=Olá%20Guilherme!%20Encontrei%20seu%20perfil%20no%20GitHub.><img    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
