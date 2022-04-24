@@ -19,7 +19,7 @@
 
 ##
 <h3>Principais Repositórios:</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=vision-friendly-dark">
+<a href="https://github.com/Campos2002/O-Resgate-Game-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Campos2002&repo=O-Resgate-Game-JavaScript&theme=vision-friendly-dark"></a>
 
 ##
 <h3>Entre em contato!</h3>
