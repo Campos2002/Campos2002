@@ -2,8 +2,8 @@
 ### :large_orange_diamond: Me chamo Guilherme Campos e sou estudante de desenvolvimento web com foco em React 👋
 
 - :earth_americas: Rio de Janeiro, Brasil, 31 anos.
-- 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
-- :computer: Graduando em Ciência da Computação.
+- - :computer: Graduando em Ciência da Computação.
+- 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor web.
 ##
 <h3>:large_orange_diamond: Status:</h3>
 <div>
