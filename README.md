@@ -1,5 +1,5 @@
 ## Olá, visitante!
-### :large_orange_diamond: Me chamo Guilherme Campos e sou um aspirante à Desenvolvedor Front-end! 👋
+### :large_orange_diamond: Me chamo Guilherme Campos e sou estudante de desenvolvimento web com foco em React 👋
 
 - :earth_americas: Rio de Janeiro, Brasil, 31 anos.
 - 🔭 Atualmente enstou em busca do meu primeiro emprego como desenvolvedor.
